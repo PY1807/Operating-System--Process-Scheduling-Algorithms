@@ -113,8 +113,8 @@ int main()
      }
     float avg1=sumwt*1.0/n;
     float avg2=sumtat*1.0/n;
-    cout<<"The average Waiting time"<<avg1<<endl;
-   cout<<"The average Turnaround time"<<avg2<<endl;
+    cout<<"The average Waiting time = "<<avg1<<endl;
+   cout<<"The average Turnaround time = "<<avg2<<endl;
     
     
 
